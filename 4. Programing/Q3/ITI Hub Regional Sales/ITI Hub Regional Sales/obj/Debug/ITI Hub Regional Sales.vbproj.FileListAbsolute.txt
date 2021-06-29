@@ -1,0 +1,12 @@
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\bin\Debug\ITI Hub Regional Sales.exe.config
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\bin\Debug\ITI Hub Regional Sales.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\bin\Debug\ITI Hub Regional Sales.pdb
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\bin\Debug\ITI Hub Regional Sales.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.vbprojAssemblyReference.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI_Hub_Regional_Sales.frm_ITI_Hub.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI_Hub_Regional_Sales.Resources.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.vbproj.GenerateResource.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.vbproj.CoreCompileInputs.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q3\ITI Hub Regional Sales\ITI Hub Regional Sales\obj\Debug\ITI Hub Regional Sales.pdb

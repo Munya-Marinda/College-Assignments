@@ -1,0 +1,36 @@
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe.config
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbprojAssemblyReference.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.Form1.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.Resources.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.GenerateResource.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.CoreCompileInputs.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\Programming\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe.config
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbprojAssemblyReference.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.Form1.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.Resources.resources
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.GenerateResource.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.CoreCompileInputs.cache
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\Documents\Richfield BSc IT\Practical\Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe.config
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\bin\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.AssemblyReference.cache
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.Resources.resources
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.GenerateResource.cache
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.vbproj.CoreCompileInputs.cache
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.exe
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.xml
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI Annual Asset Depreciation APP.pdb
+C:\Users\munya\OneDrive\Richfield BSc IT\Practical\#Assignments\4. Prog\Q2\RGI Annual Asset Depreciation APP\RGI Annual Asset Depreciation APP\obj\Debug\RGI_Annual_Asset_Depreciation_APP.frmRGI.resources
